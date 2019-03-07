@@ -2,4 +2,4 @@
 
 Object Oriented Design & Programming Assignment
 
-SCRAME System wrriten with JAVA using Eclipse IDE
+Student Course Registration and Mark Entry Application System (SCRAME) wrriten with _**JAVA**_ using _**Eclipse IDE**_
