@@ -4,5 +4,4 @@ Student Course Registration and Mark Entry Application System (SCRAME) wrriten w
 
 
 # Contributors
-Tan Wei Xuan
-[GitHub](http://github.com)
+[Tan Wei Xuan](https://github.com/jermsinarocket)
